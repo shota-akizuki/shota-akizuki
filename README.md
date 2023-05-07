@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/IVYMM6R" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.26&b=2.85&i=3.2&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/6/2023, 12:35:44 AM
+<a href="https://lapras.com/public/IVYMM6R" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.25&b=2.85&i=3.2&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 5/7/2023, 12:40:57 AM
 <!--END_SECTION:lapras-card-->
