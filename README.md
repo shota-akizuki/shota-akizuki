@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/IVYMM6R" target="_blank" rel="noopener noreferrer"><img alt="IVYMM6RのLAPRASでのスコアは次の通りです: エンジニアリング: 3.34 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.25 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.34&b=2.85&i=3.25&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 8/16/2023, 12:32:56 AM</p>
+<p ><a href="https://lapras.com/public/IVYMM6R" target="_blank" rel="noopener noreferrer"><img alt="IVYMM6RのLAPRASでのスコアは次の通りです: エンジニアリング: 3.54 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.25 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.54&b=2.85&i=3.25&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 8/17/2023, 12:32:39 AM</p>
 <!--END_SECTION:lapras-card-->
