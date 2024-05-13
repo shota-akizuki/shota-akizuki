@@ -17,10 +17,3 @@ Here are some ideas to get you started:
 <p ><a href="https://lapras.com/public/IVYMM6R" target="_blank" rel="noopener noreferrer"><img alt="IVYMM6RのLAPRASでのスコアは次の通りです: エンジニアリング: 3.56 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.28 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.56&b=2.85&i=3.28&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 Last Updated on 5/13/2024, 12:05:17 AM</p>
 <!--END_SECTION:lapras-card-->
-
-<a href="https://github.com/shota-akizuki/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/shota-akizuki/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
-</a>
